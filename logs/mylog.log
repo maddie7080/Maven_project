@@ -1,0 +1,56 @@
+[INFO ] 2024-02-12 17:48:07.249 [main] qa - url opened
+[INFO ] 2024-02-12 17:48:08.350 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-12 17:48:09.642 [main] qa - Verify login - passed
+[INFO ] 2024-02-12 17:56:07.183 [main] qa - url opened
+[INFO ] 2024-02-12 17:56:07.234 [main] qa - VerifyLogin test Execution Started.....
+[INFO ] 2024-02-12 17:58:57.587 [main] qa - url opened
+[INFO ] 2024-02-12 17:58:57.651 [main] qa - VerifyLogin test Execution Started.....
+[INFO ] 2024-02-12 18:03:51.485 [main] qa - url opened
+[INFO ] 2024-02-12 18:03:51.512 [main] qa - VerifyLogin test Execution Started.....
+[INFO ] 2024-02-12 18:03:52.648 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-12 18:03:52.846 [main] qa - Enterd email address
+[INFO ] 2024-02-12 18:03:52.976 [main] qa - Entered password
+[INFO ] 2024-02-12 18:03:53.959 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-12 18:03:54.014 [main] qa - Verify login - passed
+[INFO ] 2024-02-12 18:21:53.262 [main] qa - url opened
+[INFO ] 2024-02-12 18:21:53.292 [main] qa - VerifyLogin test Execution Started.....
+[INFO ] 2024-02-12 18:21:54.316 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-12 18:21:54.514 [main] qa - Enterd email address
+[INFO ] 2024-02-12 18:21:54.662 [main] qa - Entered password
+[INFO ] 2024-02-12 18:21:55.931 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-12 18:21:55.993 [main] qa - Verify login - passed
+[INFO ] 2024-02-12 18:34:57.959 [main] qa - url opened
+[INFO ] 2024-02-12 18:34:57.994 [main] qa - VerifyLogin test Execution Started.....
+[INFO ] 2024-02-12 18:34:59.129 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-12 18:34:59.390 [main] qa - Enterd email address
+[INFO ] 2024-02-12 18:34:59.534 [main] qa - Entered password
+[INFO ] 2024-02-12 18:35:00.535 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-12 18:35:00.593 [main] qa - Verifylogin - Failed
+[INFO ] 2024-02-23 16:29:42.187 [main] qa - url opened
+[INFO ] 2024-02-23 16:29:42.231 [main] qa - .......VerifyLogin test Execution Started.....
+[INFO ] 2024-02-23 16:29:43.553 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-23 16:29:43.776 [main] qa - Enterd email address
+[INFO ] 2024-02-23 16:29:43.954 [main] qa - Entered password
+[INFO ] 2024-02-23 16:29:45.457 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-23 16:29:45.516 [main] qa - Verify login - passed
+[INFO ] 2024-02-23 16:58:40.437 [main] qa - url opened
+[INFO ] 2024-02-23 16:58:40.467 [main] qa - .......VerifyLogin test Execution Started.....
+[INFO ] 2024-02-23 16:58:41.531 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-23 16:58:41.733 [main] qa - Enterd email address
+[INFO ] 2024-02-23 16:58:41.880 [main] qa - Entered password
+[INFO ] 2024-02-23 16:58:42.803 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-23 16:58:42.869 [main] qa - Verify login - passed
+[INFO ] 2024-02-23 17:02:32.256 [main] qa - url opened
+[INFO ] 2024-02-23 17:02:32.288 [main] qa - .......VerifyLogin test Execution Started.....
+[INFO ] 2024-02-23 17:02:33.911 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-23 17:02:34.119 [main] qa - Enterd email address
+[INFO ] 2024-02-23 17:02:34.254 [main] qa - Entered password
+[INFO ] 2024-02-23 17:02:35.394 [main] qa - Clicked on sign in link
+[INFO ] 2024-02-23 17:02:35.453 [main] qa - Verify login - passed
+[INFO ] 2024-03-05 16:54:03.839 [main] qa - url opened
+[INFO ] 2024-03-05 16:54:03.871 [main] qa - .......VerifyLogin test Execution Started.....
+[INFO ] 2024-03-05 16:54:05.199 [main] qa - Clicked on sign in link
+[INFO ] 2024-03-05 16:54:05.406 [main] qa - Enterd email address
+[INFO ] 2024-03-05 16:54:05.570 [main] qa - Entered password
+[INFO ] 2024-03-05 16:54:07.765 [main] qa - Clicked on sign in link
+[INFO ] 2024-03-05 16:54:07.818 [main] qa - Verify login - passed
